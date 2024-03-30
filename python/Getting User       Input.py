@@ -1,0 +1,11 @@
+name = input("Enter your name: ")
+age= ("18+")
+name2 = ("Md. liton")
+name3 = ("Mst. Taslima Beagum")
+
+print("Student Informession")
+print("_____________________")
+print("Name         : "+name)
+print("Age          : "+age)
+print("Fathers Name : "+name2)
+print("Mothers Name : "+name3)
